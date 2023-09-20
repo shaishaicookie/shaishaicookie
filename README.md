@@ -2,8 +2,7 @@
 - 👀 love coding
 - 💗 build interesting applications 
 - 🎬 motion design enthusiast
-  
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: flex-start;">
     <a href="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=shaishaicookie&&show_icons=true&theme=swift&hide_border=true">
         <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=shaishaicookie&&show_icons=true&theme=swift&hide_border=true" alt="Sherry's github stats" style="height: 195px; width: auto;" />
     </a>
